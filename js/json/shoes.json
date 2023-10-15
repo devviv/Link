@@ -1,0 +1,107 @@
+[
+  {
+    "sexe": "homme",
+    "nom": "Chaussure de sport Homme 1",
+    "description": "Une chaussure de sport légère pour les hommes 1.",
+    "prix_fcfa": 12000,
+    "emplacement_image": "../images/img1.jpeg"
+  },
+  {
+    "sexe": "homme",
+    "nom": "Chaussure de ville Homme 1",
+    "description": "Une chaussure de ville élégante pour les hommes 1.",
+    "prix_fcfa": 13000,
+    "emplacement_image": "../images/img2.jpeg"
+  },
+  {
+    "sexe": "homme",
+    "nom": "Chaussure de randonnée Homme 1",
+    "description": "Une chaussure de randonnée robuste pour les hommes 1.",
+    "prix_fcfa": 14000,
+    "emplacement_image": "../images/img3.jpeg"
+  },
+  {
+    "sexe": "homme",
+    "nom": "Chaussure de sport Homme 2",
+    "description": "Une chaussure de sport légère pour les hommes 2.",
+    "prix_fcfa": 12500,
+    "emplacement_image": "../images/img4.jpeg"
+  },
+  {
+    "sexe": "homme",
+    "nom": "Chaussure de ville Homme 2",
+    "description": "Une chaussure de ville élégante pour les hommes 2.",
+    "prix_fcfa": 13500,
+    "emplacement_image": "../images/img5.jpeg"
+  },
+  {
+    "sexe": "homme",
+    "nom": "Chaussure de randonnée Homme 2",
+    "description": "Une chaussure de randonnée robuste pour les hommes 2.",
+    "prix_fcfa": 14500,
+    "emplacement_image": "../images/img6.jpeg"
+  },
+  {
+    "sexe": "homme",
+    "nom": "Chaussure de sport Homme 3",
+    "description": "Une chaussure de sport légère pour les hommes 3.",
+    "prix_fcfa": 12000,
+    "emplacement_image": "../images/img7.jpeg"
+  },
+  {
+    "sexe": "homme",
+    "nom": "Chaussure de ville Homme 3",
+    "description": "Une chaussure de ville élégante pour les hommes 3.",
+    "prix_fcfa": 13000,
+    "emplacement_image": "../images/img8.jpeg"
+  },
+  {
+    "sexe": "homme",
+    "nom": "Chaussure de randonnée Homme 3",
+    "description": "Une chaussure de randonnée robuste pour les hommes 3.",
+    "prix_fcfa": 14000,
+    "emplacement_image": "../images/img9.jpeg"
+  },
+  {
+    "sexe": "femme",
+    "nom": "Chaussure de sport Femme 1",
+    "description": "Une chaussure de sport légère pour les femmes 1.",
+    "prix_fcfa": 11000,
+    "emplacement_image": "../images/img10.jpeg"
+  },
+  {
+    "sexe": "femme",
+    "nom": "Chaussure de ville Femme 1",
+    "description": "Une chaussure de ville élégante pour les femmes 1.",
+    "prix_fcfa": 12000,
+    "emplacement_image": "../images/img11.jpeg"
+  },
+  {
+    "sexe": "femme",
+    "nom": "Chaussure de randonnée Femme 1",
+    "description": "Une chaussure de randonnée confortable pour les femmes 1.",
+    "prix_fcfa": 13000,
+    "emplacement_image": "../images/img12.jpeg"
+  },
+  {
+    "sexe": "femme",
+    "nom": "Chaussure de sport Femme 2",
+    "description": "Une chaussure de sport légère pour les femmes 2.",
+    "prix_fcfa": 11500,
+    "emplacement_image": "../images/img13.jpeg"
+  },
+  {
+    "sexe": "femme",
+    "nom": "Chaussure de ville Femme 2",
+    "description": "Une chaussure de ville élégante pour les femmes 2.",
+    "prix_fcfa": 12500,
+    "emplacement_image": "../images/img14.jpeg"
+  },
+  {
+    "sexe": "femme",
+    "nom": "Chaussure de randonnée Femme 2",
+    "description": "Une chaussure de randonnée confortable pour les femmes 2.",
+    "prix_fcfa": 13500,
+    "emplacement_image": "../images/img15.jpeg"
+  }
+]
