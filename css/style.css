@@ -353,6 +353,7 @@ a:focus {
 
 .slider_section .detail-box p {
   font-size: 14px;
+  color: #000000;
 }
 
 .slider_section .detail-box a {
@@ -904,7 +905,7 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #5235e1;
+  background-color: #000000;
   color: #ffffff;
   padding: 75px 0 40px 0;
   text-align: center;
