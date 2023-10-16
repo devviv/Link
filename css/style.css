@@ -353,7 +353,7 @@ a:focus {
 
 .slider_section .detail-box p {
   font-size: 14px;
-  color: #000000;
+  font-weight: bold;
 }
 
 .slider_section .detail-box a {
