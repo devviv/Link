@@ -9,7 +9,12 @@ body {
 /* #logo{
   color: #1b0489;
 } */
-
+.filters-content .detail-box .options h6 {
+  font-weight: bold;
+  font-size: larger;
+  color: black;
+  font-style: italic;
+}
 .layout_padding {
   padding: 90px 0;
 }
