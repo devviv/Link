@@ -5,7 +5,7 @@ body {
   background-color: #ffffff;
   overflow-x: hidden;
 }
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   #logo {
     width: 70px;
   }
@@ -14,10 +14,10 @@ body {
   #logo {
     width: 120px;
   }
-}
-/* #logo {
-  width: 120px;
 } */
+#logo {
+  width: 200px;
+}
 .filters-content .detail-box .options h6 {
   font-weight: bold;
   font-size: larger;
